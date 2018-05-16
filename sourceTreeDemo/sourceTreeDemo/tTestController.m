@@ -18,8 +18,8 @@
     [super viewDidLoad];
 
     NSLog(@"dev_1 创建分支准备");
-    NSLog(@"dev_2 开发新功能1");
-    
+    NSLog(@"dev_1 在分支上开发1");
+    NSLog(@"dev_1 开发功能1");
     
 }
 
