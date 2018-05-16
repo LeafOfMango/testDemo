@@ -15,6 +15,7 @@
 		3B0FA5E720AC0D2000CE9B15 /* sourceTreeDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B0FA5E620AC0D2000CE9B15 /* sourceTreeDemoTests.m */; };
 		3B0FA5F220AC0D2000CE9B15 /* sourceTreeDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B0FA5F120AC0D2000CE9B15 /* sourceTreeDemoUITests.m */; };
 		3B0FA60120AC11FD00CE9B15 /* tTestController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B0FA60020AC11FD00CE9B15 /* tTestController.m */; };
+		3B0FA60720AC183100CE9B15 /* tes.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B0FA60620AC183100CE9B15 /* tes.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		3B0FA5F320AC0D2000CE9B15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3B0FA5FF20AC11FD00CE9B15 /* tTestController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = tTestController.h; sourceTree = "<group>"; };
 		3B0FA60020AC11FD00CE9B15 /* tTestController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = tTestController.m; sourceTree = "<group>"; };
+		3B0FA60520AC183100CE9B15 /* tes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = tes.h; sourceTree = "<group>"; };
+		3B0FA60620AC183100CE9B15 /* tes.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = tes.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				3B0FA5CE20AC0D1F00CE9B15 /* AppDelegate.m */,
 				3B0FA5FF20AC11FD00CE9B15 /* tTestController.h */,
 				3B0FA60020AC11FD00CE9B15 /* tTestController.m */,
+				3B0FA60520AC183100CE9B15 /* tes.h */,
+				3B0FA60620AC183100CE9B15 /* tes.m */,
 				3B0FA5D320AC0D1F00CE9B15 /* Main.storyboard */,
 				3B0FA5D620AC0D2000CE9B15 /* Assets.xcassets */,
 				3B0FA5D820AC0D2000CE9B15 /* LaunchScreen.storyboard */,
@@ -262,6 +267,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3B0FA60720AC183100CE9B15 /* tes.m in Sources */,
 				3B0FA5DD20AC0D2000CE9B15 /* main.m in Sources */,
 				3B0FA5CF20AC0D1F00CE9B15 /* AppDelegate.m in Sources */,
 				3B0FA60120AC11FD00CE9B15 /* tTestController.m in Sources */,
