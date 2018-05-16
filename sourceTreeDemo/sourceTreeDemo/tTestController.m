@@ -18,6 +18,9 @@
     [super viewDidLoad];
 
     NSLog(@"dev_1 创建分支准备");
+    NSLog(@"dev_2 开发新功能1");
+    
+    
 }
 
 - (void)didReceiveMemoryWarning {
