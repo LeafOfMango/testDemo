@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  tTestController.h
 //  sourceTreeDemo
 //
 //  Created by Haoran Liu on 2018/5/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface tTestController : UIViewController
 
 @end
-
